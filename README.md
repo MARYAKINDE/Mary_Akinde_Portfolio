@@ -2,8 +2,7 @@
 
 **Data Analyst | Data Scientist | Business Analyst**
 
-I am a data-driven analyst with strong experience in statistical modeling, machine learning, and business intelligence.  
-My work focuses on turning complex data into actionable insights that support decision-making across finance, healthcare, and hospitality contexts.
+I am a data-driven analyst with strong experience in statistical modeling, machine learning, and business intelligence.  My work focuses on turning complex data into actionable insights that support decision-making across finance, healthcare, and hospitality contexts.
 
 ---
 
