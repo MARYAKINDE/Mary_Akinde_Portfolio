@@ -1,4 +1,4 @@
-![Mary Akinde Portfolio Banner](/assets/img/banner.png)
+![Mary Akinde Portfolio Banner](https://github.com/MARYAKINDE/Mary_Akinde_Portfolio/blob/main/Display.png)
 
 # Mary Akinde
 
