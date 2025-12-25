@@ -30,7 +30,7 @@ My work spans exploratory analysis, predictive modeling, dashboard development, 
 - Git, GitHub, Jupyter  
 
 **Databases & Data Platforms**  
-- PostgreSQL, MySQL, BigQuery  
+- PL/SQL, PostgreSQL, MySQL, BigQuery  
 
 **Visualization & BI**  
 - Tableau, Power BI, Looker Studio  
