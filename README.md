@@ -33,7 +33,7 @@ My work spans exploratory analysis, predictive modeling, dashboard development, 
 - PL/SQL, PostgreSQL, MySQL, BigQuery  
 
 **Visualization & BI**  
-- Tableau, Power BI, Looker Studio  
+- Tableau, Power BI, Looker Studio, R Shiny, SAS Viya  
 
 ---
 
