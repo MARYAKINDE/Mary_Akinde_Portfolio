@@ -1,26 +1,38 @@
+![Mary Akinde Portfolio Banner](/assets/img/banner.png)
+
 # Mary Akinde
 
-**Data Analyst | Data Scientist | Business Analyst**
+**Data Analyst | Business Intelligence Analyst | Data Scientist**
 
-I am a data-driven analyst with strong experience in statistical modeling, machine learning, and business intelligence.  My work focuses on turning complex data into actionable insights that support decision-making across finance, healthcare, and hospitality contexts.
+🙋🏽‍♀️ **Introducing Myself**
+
+Hello, I’m Mary — a data-driven analyst with expertise in data analysis, statistical modeling, machine learning, and business intelligence. I specialize in transforming complex, real-world data into **clear, actionable insights** that support strategic decision-making across finance, healthcare, and hospitality.
+
+My work spans exploratory analysis, predictive modeling, dashboard development, and stakeholder-facing reporting.
 
 ---
 
-## 🛠️ Technical Skills
+## 🔍 What I Do
 
-**Languages & Tools**  
+- Query, clean, and analyze data using **SQL, Python, R, and SAS**
+- Perform ad-hoc and recurring analyses to answer business-critical questions
+- Build **dashboards and reports** using Tableau, Power BI, and Looker Studio
+- Apply **statistical and machine-learning models** to uncover patterns and predict outcomes
+- Communicate insights clearly to technical and non-technical audiences
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Languages & Analytics**  
 - Python, R, SQL, SAS  
 - Excel, Google Sheets  
 - Git, GitHub, Jupyter  
 
-**Analytics & Modeling**  
-- Regression & causal analysis  
-- Machine learning (classification, regression, forecasting)  
-- A/B testing & experimentation  
-- Time series analysis  
-
-**Databases & Visualization**  
+**Databases & Data Platforms**  
 - PostgreSQL, MySQL, BigQuery  
+
+**Visualization & BI**  
 - Tableau, Power BI, Looker Studio  
 
 ---
@@ -28,78 +40,62 @@ I am a data-driven analyst with strong experience in statistical modeling, machi
 ## 🎓 Education
 
 **Ph.D. in Consumer Economics**  
-University of Georgia, Athens, Georgia *(In Progress)*  
+University of Georgia, Athens, GA *(In Progress)*  
 
 **M.S. in Statistics**  
-University of Georgia, Athens, Georgia *(Expected May 2026)*  
+University of Georgia, Athens, GA *(Expected May 2026)*  
 
 **M.Sc. in Management & Business Analytics**  
 Higher School of Economics, Saint Petersburg, Russia  
 
 **B.Sc. in Economics**  
-Federal University of Agriculture, Abeokuta, Nigeria
+Federal University of Agriculture, Abeokuta, Nigeria  
 
 ---
 
-## 💼 Experience
+## 📚 Projects
 
-### Business Intelligence & Data Analyst  
-**Union Bank of Nigeria**  
-- Analyzed large-scale financial datasets to generate insights for credit risk and customer behavior  
-- Built dashboards and automated reporting workflows to support executive decision-making  
-- Conducted ad-hoc SQL analysis to answer high-priority business questions  
+Welcome to my portfolio — here are a few selected projects that highlight my work.
 
-### Research & Data Analyst (Graduate Researcher)  
-**University of Georgia**  
-- Applied econometric and machine-learning models to study financial well-being, health literacy, and aging outcomes  
-- Worked with HRS, administrative, and survey datasets  
-- Collaborated with interdisciplinary teams across economics, statistics, and public health  
-
----
-
-## 📊 Featured Projects
-
-### Unsecured Debt & Psychological Well-Being  
+### 📊 Unsecured Debt & Psychological Well-Being  
 **Role of Health Literacy among Older Adults**  
 - Built regression and mediation models using HRS data  
 - Studied how financial literacy moderates debt-related stress outcomes  
 - Tools: **R, Python, SAS**  
-
 🔗 *Manuscript under review*
 
 ---
 
-### Predicting Food Waste in Institutional Hospitality  
+### 🍽️ Predicting Food Waste in Institutional Hospitality  
 - Developed machine-learning models to forecast food waste using event-level data  
 - Identified operational and temporal drivers of waste  
 - Tools: **Python, time series, ML pipelines**  
-
 🔗 *Working paper*
 
 ---
 
-### Lecturer–Course Assignment Optimization  
+### 📅 Lecturer–Course Assignment Optimization  
 - Built optimization models to improve instructor allocation  
 - Reduced scheduling conflicts and improved workload balance  
 - Tools: **Python, linear programming, PuLP**  
-
 🔗 *GitHub repository (coming soon)*
 
 ---
 
-## 📈 What I Bring
+## 💡 What I Bring
 
-- Strong analytical thinking grounded in **statistics and economics**  
-- Ability to translate data insights into **business and policy recommendations**  
-- Experience working with **real-world messy data**  
-- Clear communication with technical and non-technical stakeholders  
+- Strong foundation in **statistics, economics, and data science**
+- Expertise in **SQL-based analysis and BI reporting**
+- Experience working with **large, messy, real-world datasets**
+- Ability to translate data into **business and policy insights**
 
 ---
 
 ## 👋 Connect with Me
-📧 akindemary02@gmail.com  
-🔗 https://www.linkedin.com/in/mary-akinde  
-💻 https://github.com/MARYAKINDE
+
+- 📧 **Email:** akindemary02@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/mary-akinde  
+- 💻 **GitHub:** https://github.com/MARYAKINDE  
 
 ---
 
