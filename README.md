@@ -29,14 +29,16 @@ My work focuses on turning complex data into actionable insights that support de
 ## 🎓 Education
 
 **Ph.D. in Consumer Economics**  
-University of Georgia *(In Progress)*  
+University of Georgia, Athens, Georgia *(In Progress)*  
 
 **M.S. in Statistics**  
-University of Georgia *(Expected May 2026)*  
+University of Georgia, Athens, Georgia *(Expected May 2026)*  
 
 **M.Sc. in Management & Business Analytics**  
-Higher School of Economics, Russia  
+Higher School of Economics, Saint Petersburg, Russia  
 
+**B.Sc. in Economics**  
+Federal University of Agriculture, Abeokuta, Nigeria
 ---
 
 ## 💼 Experience
@@ -47,7 +49,7 @@ Higher School of Economics, Russia
 - Built dashboards and automated reporting workflows to support executive decision-making  
 - Conducted ad-hoc SQL analysis to answer high-priority business questions  
 
-### Research & Data Analytics (Graduate Researcher)  
+### Research & Data Analyst (Graduate Researcher)  
 **University of Georgia**  
 - Applied econometric and machine-learning models to study financial well-being, health literacy, and aging outcomes  
 - Worked with HRS, administrative, and survey datasets  
@@ -61,7 +63,7 @@ Higher School of Economics, Russia
 **Role of Health Literacy among Older Adults**  
 - Built regression and mediation models using HRS data  
 - Studied how financial literacy moderates debt-related stress outcomes  
-- Tools: **R, Python, econometrics**  
+- Tools: **R, Python, SAS**  
 
 🔗 *Manuscript under review*
 
