@@ -38,6 +38,7 @@ Higher School of Economics, Saint Petersburg, Russia
 
 **B.Sc. in Economics**  
 Federal University of Agriculture, Abeokuta, Nigeria
+
 ---
 
 ## 💼 Experience
